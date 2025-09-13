@@ -8,3 +8,7 @@
 
 # Practice-project-03 - Colour filpper
 - When we click the background color is change and show which color it is
+
+# Practice-project-04 - Counter
+- Click the add button to add the number or chick the decreament button to subtract the number
+
