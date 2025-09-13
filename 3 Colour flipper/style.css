@@ -1,0 +1,36 @@
+body{
+  transition: background-color 0.5s;
+}
+
+section#colour-display{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 100px auto;
+  width: 50%;
+  background-color: #ffffff;
+  box-shadow: 0 0 30px #00000080;
+  padding: 4rem;
+  border-radius: .5rem;
+}
+
+section#colour-display h1{
+  font-weight: 900;
+}
+
+section#colour-display #new-colour-btn{
+  width: 100%;
+  background-color: black;
+  color: whitesmoke;
+  padding: 1rem;
+  border: 1px solid transparent;
+  border-radius: .5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+
+section#colour-display #new-colour-btn:hover{
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  border-radius: .5rem;
+}
