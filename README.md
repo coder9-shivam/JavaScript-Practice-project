@@ -15,3 +15,7 @@
 # Practice-project-05 - Sticky nav;
 - This project demonstrates how to create a simple **sticky navigation bar** using HTML, CSS, and JavaScript.
 - The navbar remains visible at the left of the page while scrolling, making it easier for users to navigate between sections.
+
+# Practice-project-06 - Tabbed Content;
+- This is a simple JavaScript practice project that demonstrates how to build a **tabbed content interface**
+- Users can switch between multiple sections (e.g., Home, About, Contact) without reloading the page.
