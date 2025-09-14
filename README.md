@@ -19,3 +19,6 @@
 # Practice-project-06 - Tabbed Content;
 - This is a simple JavaScript practice project that demonstrates how to build a **tabbed content interface**
 - Users can switch between multiple sections (e.g., Home, About, Contact) without reloading the page.
+
+# Practice-project-07 - FAQs;
+- Generating the context from the javascript
