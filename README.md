@@ -22,3 +22,6 @@
 
 # Practice-project-07 - FAQs;
 - Generating the context from the javascript
+
+# Practice-project-08 - Testimonials;
+- Generating the testimonials by using Javascript
