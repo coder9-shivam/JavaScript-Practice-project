@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>9 CountDown Timer</title>
+
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+  <body>
+    <h1>CountDown Timer</h1>
+    <div class="container">
+      <div class="inputs">
+        <label for="hoursInput">Hours: </label>
+        <input type="number" id="hoursInput" min="0" max="23" value="0" >
+        <label for="minutesInput">Minutes: </label>
+        <input type="number" id="minutesInput" min="0" max="60" value="0" >
+        <label for="secondsInput">Seconds: </label>
+        <input type="number" id="secondsInput" min="0" max="59" value="0" >
+
+        <div class="input-btn">
+          <button id="startTimer">START</button>
+          <button id="stopTimer">STOP</button>
+        </div>
+      </div>
+
+      <div class="timer">
+        <h2>
+          <div id="hoursOutput"></div>
+          <div id="minutesOutput"></div>
+          <div id="secondsOutput"></div>
+        </h2>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -25,3 +25,7 @@
 
 # Practice-project-08 - Testimonials;
 - Generating the testimonials by using Javascript
+
+# Practice-project-09 - CountDown Timer
+- A simple web-based **countdown timer** built with **HTML, CSS, and JavaScript**.  
+- The user can set hours, minutes, and seconds, then start or stop the countdown.  
