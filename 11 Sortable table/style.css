@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+table, th {
+  text-align: left;
+  border: 1px solid black;
+}
+
+th > span {
+  margin: 0.25rem;
+  cursor: pointer;
+}
+
+tr > td {
+  border: 1px solid black;
+}

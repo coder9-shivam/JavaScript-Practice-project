@@ -32,3 +32,6 @@
 
 # Practice-project-10 - Star Rating;
 - A simple star rating system built with JavaScript that allows users to rate categories, saves ratings in localStorage, and restores them on page reload.
+
+# Practice-project-11 - Sortable Table;
+- A JavaScript project that dynamically generates a sortable HTML table from product data, allowing users to sort by columns (ID, title, price, stock status, and category) in ascending or descending order.
