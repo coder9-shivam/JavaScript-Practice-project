@@ -26,6 +26,9 @@
 # Practice-project-08 - Testimonials;
 - Generating the testimonials by using Javascript
 
-# Practice-project-09 - CountDown Timer
-- A simple web-based **countdown timer** built with **HTML, CSS, and JavaScript**.  
-- The user can set hours, minutes, and seconds, then start or stop the countdown.  
+# Practice-project-09 - CountDown Timer;
+- A simple web-based **countdown timer** built with **HTML, CSS, and JavaScript**.
+- The user can set hours, minutes, and seconds, then start or stop the countdown.
+
+# Practice-project-10 - Star Rating;
+- A simple star rating system built with JavaScript that allows users to rate categories, saves ratings in localStorage, and restores them on page reload.

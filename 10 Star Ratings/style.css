@@ -1,0 +1,25 @@
+#ratings {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  border: 2px solid black;
+  padding: 1rem;
+  width: 100px;
+}
+
+/* STAR emoji */
+.empty::before {
+  content: '◇';
+  cursor: pointer;
+  margin-right: 2px;
+}
+
+.filled::before {
+  content: '◆';
+  cursor: pointer;
+  margin-right: 2px;
+}
+
+
+
+
