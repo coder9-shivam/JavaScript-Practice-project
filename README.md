@@ -35,3 +35,7 @@
 
 # Practice-project-11 - Sortable Table;
 - A JavaScript project that dynamically generates a sortable HTML table from product data, allowing users to sort by columns (ID, title, price, stock status, and category) in ascending or descending order.
+
+
+# Practice-project-12 - Shopping List;
+- A simple JavaScript class-based Shopping List app that allows users to add and remove items, with data persistence using localStorage.
