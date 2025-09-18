@@ -42,3 +42,6 @@
 
 # Practice-project-13 - Car Race;
 - A JavaScript racing simulation where cars start asynchronously, finish at random times, and their final positions are dynamically displayed in the browser.
+
+# Practice-project-14 - Lazy Image Loader;
+- A JavaScript utility that loads an image asynchronously using XMLHttpRequest, converts it to a Blob URL, and displays it dynamically in the browser with error handling
