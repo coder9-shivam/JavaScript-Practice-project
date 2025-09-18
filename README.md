@@ -39,3 +39,6 @@
 
 # Practice-project-12 - Shopping List;
 - A simple JavaScript class-based Shopping List app that allows users to add and remove items, with data persistence using localStorage.
+
+# Practice-project-13 - Car Race;
+- A JavaScript racing simulation where cars start asynchronously, finish at random times, and their final positions are dynamically displayed in the browser.
