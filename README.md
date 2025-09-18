@@ -49,3 +49,5 @@
 # Practice-project-15 - Lorem Ipsum Generator;
 - A JavaScript Lorem Ipsum generator that fetches placeholder text from the Bacon Ipsum API, displays it in paragraphs, and provides a one-click copy-to-clipboard button.
 
+# Practice-project-16 - AutoComplete;
+- This project implements a debounced autocomplete search feature using the DummyJSON products API, displaying matching results in a dynamic table with product title, pr
