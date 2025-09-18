@@ -45,3 +45,7 @@
 
 # Practice-project-14 - Lazy Image Loader;
 - A JavaScript utility that loads an image asynchronously using XMLHttpRequest, converts it to a Blob URL, and displays it dynamically in the browser with error handling
+
+# Practice-project-15 - Lorem Ipsum Generator;
+- A JavaScript Lorem Ipsum generator that fetches placeholder text from the Bacon Ipsum API, displays it in paragraphs, and provides a one-click copy-to-clipboard button.
+
