@@ -1,0 +1,36 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#userDirectory {
+  max-width: 900px;
+  margin: 0 auto;
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #c83c3c;
+  border-radius: 1rem;
+  color: white;
+  box-shadow: 0 0 24px 21px rgba(0, 0, 0, 0.3);
+}
+
+#userTable {
+  border-collapse: separate;
+  border-spacing: 10px 0;
+  margin: 1rem 0;
+}
+
+#userTable td {
+  padding: 10px 0;
+}
+
+#userTable img {
+  width: 40px;
+}
+
+#userTable th {
+  text-align: left;
+}
+
+#filterUsers {
+  padding: .5rem 1rem;
+}

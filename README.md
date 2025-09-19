@@ -51,3 +51,6 @@
 
 # Practice-project-16 - AutoComplete;
 - This project implements a debounced autocomplete search feature using the DummyJSON products API, displaying matching results in a dynamic table with product title, pr
+
+# Practice-project-17 - User Directory;
+- 
