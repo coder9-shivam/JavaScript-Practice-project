@@ -53,4 +53,5 @@
 - This project implements a debounced autocomplete search feature using the DummyJSON products API, displaying matching results in a dynamic table with product title, pr
 
 # Practice-project-17 - User Directory;
-- 
+- A JavaScript User Directory app that fetches user data from an API, stores it in localStorage, displays it in a table with photos, and includes a live search filter.
+
